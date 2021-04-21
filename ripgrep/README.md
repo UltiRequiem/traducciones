@@ -20,13 +20,13 @@ Porfavor revisa [CHANGELOG](CHANGELOG.md) para informarte sobre el historial de 
 ### Documentation quick links
 
 * [Instalación](#installation)
-* [Guía de uso](GUIDE.md)
-* [FAQ](FAQ.md)
+* [Guía de uso](./GUIDE.md)
+* [FAQ](./FAQ.md)
 * [Regex syntax](https://docs.rs/regex/1/regex/#syntax)
 * [Archivos de configuración](GUIDE.md#configuration-file)
 * [Shell completions](FAQ.md#complete)
 * [Building](#building)
-* [Tranducciones](#translations)
+* [Tranducciones](#traducciones)
 
 
 ### Screenshot de los resultados de la búsqueda
@@ -418,7 +418,7 @@ $ cargo test --all
 from the repository root.
 
 
-### Translations
+### Traducciones
 
 La siguiente es una lista de traducciones conocidas de la documentación de ripgrep. Estas
 se mantienen extraoficialmente y pueden no estar actualizados.
