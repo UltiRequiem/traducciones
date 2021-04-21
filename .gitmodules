@@ -1,0 +1,3 @@
+[submodule "vim-galore"]
+	path = vim-galore
+	url = https://github.com/ultirequiem/vim-galore-es
